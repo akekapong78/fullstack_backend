@@ -1,0 +1,9 @@
+My study the Full Stack Dev
+
+this part this all about Backend side consis
+- mySQL
+- prisma (JS)
+- express (JS) >> template from : express-draft
+- Dockerize 
+  >> Dockerfile to build our api service on Backend side
+  >> docker-conpose in one file to run all services [mysql, phpmyadmin, myapi]
